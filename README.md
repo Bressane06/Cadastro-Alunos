@@ -47,3 +47,6 @@ Coloque os três arquivos em uma pasta que contenha somente eles. Execute o segu
 No terminal, execute o comando:
 
     ./cadastro_alunos
+
+## Executando o programa
+![video](media/gif.gif)
